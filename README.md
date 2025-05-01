@@ -11,4 +11,4 @@ Pubs.bak veri tabanına Microsoft üzerinden erişmek için [tıklayın.](https:
 
 # Veri Tabanı Diyagramı
 
-![Ekran Görüntüsü (2371)](https://github.com/user-attachments/assets/65166796-ba21-4b84-aa0d-95fa9443fb56)
+![Ekran Görüntüsü (2371)](https://github.com/user-attachments/assets/835808e3-5bfe-4835-a815-f1e4782dc530)
