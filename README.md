@@ -13,6 +13,8 @@ Bu örnek veri tabanı üzerinde uygulanan işlemler:
 
 Pubs.bak veri tabanına Microsoft üzerinden erişmek için [tıklayın.](https://github.com/microsoft/sql-server-samples/blob/master/samples/databases/northwind-pubs/instpubs.sql)
 
+Projenin uygulanış adımlarını içeren videolara erişmek için [tıklayın.](https://drive.google.com/drive/folders/1F96I1jNVQnzVSdowzRYIpNcsvvuy3lOz)
+
 # Veri Tabanı Diyagramı
 
 ![Ekran Görüntüsü (2371)](https://github.com/user-attachments/assets/835808e3-5bfe-4835-a815-f1e4782dc530)
